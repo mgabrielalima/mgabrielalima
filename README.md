@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriela
-- 👀 I’m interested in Game search & development
+- 👀 I’m interested in game development, artificial intelligence and physics.
 
 <!---
 mgabrielalima/mgabrielalima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
